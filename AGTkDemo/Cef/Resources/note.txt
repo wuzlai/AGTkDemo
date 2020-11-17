@@ -1,0 +1,1 @@
+Copy the files from the Resources directory of   cef_binary_84.4.0+g304e015+chromium-84.0.4147.105_linux64
